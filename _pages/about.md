@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am working at Alibaba's T-Head as a Senior Staﬀ Engineer, focusing on AI Compiler, MLIR and Polyhedral Compilation.
+
+I earned my PhD degree from Zhejiang University under supervised by Professor Shi Zheng. And then I worked as a Senior software R&D at [Semitronix](https://www.semitronix.com/?cur_lang=en) responsible for the innovation and development of EDA tools.
+
+Before joining T-Head, I worked at Huawei as a Technical Expert of AI compiler based on Polyhedral Compilation Technology. I am one of the main architect of MindAKG([GitHub](https://github.com/mindspore-ai/akg/blob/master/RELEASE.md), [Gitee](https://gitee.com/mindspore/akg)) which is an open-sourced AI compiler used in Huawei AI framework MindSpore for Huawei Ascend 910 and Nvidia GPU. During the period, I carried out some research and technical cooperation of AI Compilation with [Professor Zhaojie](https://yaozhujia.github.io/), [Professor Cedirc Bastoul](http://icps.u-strasbg.fr/people/bastoul/public_html/) and [Professor Jiang Li](https://cs.sjtu.edu.cn/~jiangli/).
 
 A data-driven personal website
 ======
