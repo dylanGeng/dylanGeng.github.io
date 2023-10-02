@@ -19,7 +19,7 @@ Research Interests
 
 - Polyhedral Compilation, Parallel Programming and Optimizations for Heterogeneous Systems
 - AI Compiler, Multi-Level IR Compiler Framework (MLIR) and TVM
-- Computational Lithography, Design For Manufacture (DFM)
+- Computational Lithography, Design For Manufacturing (DFM)
 
 News
 ======
