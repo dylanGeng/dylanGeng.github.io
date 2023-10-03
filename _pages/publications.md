@@ -57,3 +57,33 @@ Zhen Geng, Zheng Shi, Xiaolang Yan, Kaisheng Luo, A New Level-Set-Based Inverse 
 <i>2013 International Conference on Computer-Aided Design and Computer Graphics (CAD&CG'13)</i>, 2013.
 </span></li>
 </p>
+
+<b>&nbsp;&nbsp;Journal Papers:</b>
+
+<p style="margin-bottom: 10px">
+<li>
+<span>
+Zhen Geng, Zheng Shi, Xiao-Lang Yan, Kai-Sheng Luo, Wei-Wei Pan. Fast level-set-based inverse lithography algorithm for process robustness improvement and its application. 
+<i>Journal of Computer Science and Technology</i>, 30(3), pages 629-638, 2015.</span></li>
+</p>
+
+<p style="margin-bottom: 10px">
+<li>
+<span>
+Kai-sheng Luo, Zheng Shi, Xiao-lang Yan, Zhen Geng. SVM based layout retargeting for fast and regularized inverse lithography. 
+<i>Journal of Zhejiang University SCIENCE C</i>, 15(5), pages 390-400, 2014.</span></li>
+</p>
+
+<p style="margin-bottom: 10px">
+<li>
+<span>
+Zhen Geng, Zheng Shi, Xiao-lang Yan, Kai-sheng Luo. Regularized level-set-based inverse lithography algorithm for IC mask synthesis. 
+<i>Journal of Zhejiang University SCIENCE C</i>, 14, pages 799-807, 2013.</span></li>
+</p>
+
+<p style="margin-bottom: 10px">
+<li>
+<span>
+Yanghuan Li, Zheng Shi, Zhen Geng, Yiwei Yang, Xiaolang Yan. A new algorithm of inverse lithography technology for mask complexity reduction. 
+<i>Journal of Semiconductors</i>, 33(4), pages 045009, 2012.</span></li>
+</p>
