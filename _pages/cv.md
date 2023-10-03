@@ -27,14 +27,14 @@ Work experience
     * AI compiler based on Polyhedral Compilation Technology, Main architect of MindSpore/MindAKG for Huawei Ascend 910 and Nvidia GPU([GitHub](https://github.com/mindspore-ai/akg), [Gitee](https://github.com/mindspore-ai/akg))
 
 * 2015 - 2018:  Senior software R&D
- * Semitronix Corp.
- * Duties included: 
-   * The innovation and development of EDA tools: SmtCell/TCMagic/ATCompiler/ICSpider/DenseArray etc.
+  * Semitronix Corp.
+  * Duties included: 
+    * The innovation and development of EDA tools: SmtCell/TCMagic/ATCompiler/ICSpider/DenseArray etc.
 
 * 2012 - 2015:  Intership
- * Semitronix Corp.
- * Duties included: 
-   * The innovation and development of EDA tools focusing on DFY and DFM.
+  * Semitronix Corp.
+  * Duties included: 
+    * The innovation and development of EDA tools focusing on DFY and DFM.
 
 <!--
 Skills
