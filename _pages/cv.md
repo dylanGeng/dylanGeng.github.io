@@ -11,22 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. Zhejiang University, VLSI Institute, Hangzhou, China, 2010-2012
+* Ph.D Zhejiang University, VLSI Institute, Hangzhou, China, 2012-2015 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021 - present: Staff Engineer
+  * Alibaba's T-Head
+  * Duties included:
+    * AI Compiler on Inference Engine, MLIR and Polyhedral Compilation.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2018 - 2021:  Technical Expert
+  * Huawei Technologies
+  * Duties included: 
+    * AI compiler based on Polyhedral Compilation Technology, Main architect of MindSpore/MindAKG for Huawei Ascend 910 and Nvidia GPU([GitHub](https://github.com/mindspore-ai/akg), [Gitee](https://github.com/mindspore-ai/akg))
+
+* 2015 - 2018:  Senior software R&D
+ * Semitronix Corp.
+ * Duties included: 
+   * The innovation and development of EDA tools: SmtCell/TCMagic/ATCompiler/ICSpider/DenseArray etc.
+
+* 2012 - 2015:  Intership
+ * Semitronix Corp.
+ * Duties included: 
+   * The innovation and development of EDA tools focusing on DFY and DFM.
+
+<!--
 Skills
 ======
 * Skill 1
@@ -57,3 +67,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
