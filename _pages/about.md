@@ -25,6 +25,7 @@ News
 ======
 Our team is looking for self-motivated technical experts and outstanding college graduates, who are interested in Parallel Programming, AI Compiler, Polyhedral Compilation and MLIR. Please no hesitate to contact me. (dylangeng@163.com).
 
+- 2023.11 : Our paper “Modeling the Interplay between Loop Tiling and Fusion in Optimizing Compilers using Affine Relations” was accepted by ACM TOCS. We are so lucky to be authors in one of the last rounds of TOCS publications, as the journal is no longer accepting submissions and will cease publication after 2023.
 - 2023.05 : I was awarded CCF Senior Member.
 - 2022.08 : Our paper "Parallelizing Neural Network Models Effectively on GPU by Implementing Reductions Atomically" is accepted by PACT 2022.
 - 2022.01 : Our paper "Apollo: Automatic Partition-based Operator Fusion through Layer by Layer Optimization" is accepted by MLSys 2022.
